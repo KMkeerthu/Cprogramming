@@ -1,0 +1,7 @@
+#include<stdio.h>
+#define PI 3.147
+int main()
+{
+printf("%.3f",PI);
+return 0;
+}
